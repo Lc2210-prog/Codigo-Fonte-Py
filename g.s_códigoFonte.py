@@ -1,4 +1,3 @@
-# Simulador G.S. Java - Versão Simplificada com Comentários
 # Autor: Lucas dos Santos Oliveira
 # Disciplina: Computational Thinking using Python
 # Objetivo: Simular funcionalidades básicas do app G.S. Java para prevenção e alerta de desastres
